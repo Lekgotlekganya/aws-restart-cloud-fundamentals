@@ -1,53 +1,160 @@
-# ☁️ Kganya's AWS re/Start Journey
+<div align="center">
 
-> I didn't come from a cloud background. I came from data, curiosity, and the belief that understanding how technology works, really works — is worth every confusing moment.
+# ☁️ AWS re/Start Journey
 
-## 👋 Who Am I?
+### From Data Analytics to Cloud Computing — One Lab at a Time
 
-I'm Kganya — a Data Analysis background, a cloud beginner, and someone who decided to go all in on understanding the infrastructure behind the data I love working with.
+*"Every expert was once a beginner."*
 
-This repository is my living, breathing record of that journey through the **AWS re/Start Programme** — every lab, every concept, every "I finally get it" moment. Nothing here is polished for the sake of it. It's real, it's honest, and it's mine.
+</div>
 
-## 🎯 The Goal
+---
 
-To earn my **AWS Certified Cloud Practitioner** certificate — and actually understand every single concept behind it, not just pass a test.
+# 👋 Welcome
 
+I didn't start my journey in cloud computing.
 
-## 🗺️ What I'm Learning
+My background is in **Information Systems, Psychology, and Data Analytics**, where I learned how to work with data and understand the people behind it. As I worked with data, I became increasingly curious about something deeper:
 
-The programme covers everything from the ground up:
+> **Where does data actually live?**
+>
+> **How does it move between systems?**
+>
+> **What makes cloud applications fast, secure, and scalable?**
 
-**Compute** — Understanding virtual servers, how to launch them, connect to them, and scale them automatically.
+Those questions led me to the **AWS re/Start Programme**.
 
-**Networking** — Building private cloud networks, securing them, connecting them, and understanding how internet traffic actually flows.
+This repository is my personal learning journal—a collection of labs, projects, notes, screenshots, and lessons learned as I build practical cloud computing skills.
 
-**Storage & Databases** — The difference between storing files, structured data, and unstructured data — and when to use which.
+It isn't about pretending to know everything.
 
-**Security** — Who gets access to what, why it matters, and how one misconfigured port can bring everything down.
+It's about documenting the process of learning, experimenting, making mistakes, and gradually understanding how modern cloud infrastructure works.
 
-**Cloud Economics** — Because understanding the cloud isn't just technical — it's knowing how to build things that make financial sense.
+---
 
-**Python** — Automating and scripting in the cloud environment.
+# 🎯 My Goal
 
-**AI & Machine Learning fundamentals** — Where cloud meets intelligence.
+My goal isn't simply to earn an AWS certification.
 
-## 🏆 Certifications & Badges
+It's to develop a solid understanding of the concepts behind cloud computing so that I can confidently apply them to real-world problems.
 
-### ✅ Earned
-- 🎖️ **AWS Cloud Quest: Cloud Practitioner** — Completed all 12 activities including EC2, VPC, RDS, DynamoDB, EFS, IAM, Auto Scaling, High Availability and VPC Peering.
+By the end of this journey, I aim to:
 
-### 🔜 In Progress
-- 📜 **AWS Certified Cloud Practitioner** — The big one. Coming soon.
+- ☁️ Build and deploy cloud solutions with AWS
+- 🔐 Understand cloud security best practices
+- 🌐 Design reliable and scalable cloud architectures
+- 🐍 Automate tasks using Python
+- 📊 Combine cloud computing with data analytics
+- 📜 Earn the AWS Certified Cloud Practitioner certification
 
+---
 
-## 🎮  — AWS Skill Builder
+# 📚 What You'll Find in This Repository
 
-## 🧠 A Note On Why
+This repository is organised into several sections that reflect my progress throughout the AWS re/Start Programme.
 
-I come from Data Analysis. I know how to work with data — but I kept hitting a wall when it came to understanding *where* that data lives, *how* it moves, and *why* some systems are fast and others aren't.
+## 🏆 Badges
 
-AWS re/Start answered all of that.
+Throughout the programme I earned AWS Skill Builder badges that demonstrate my understanding of key cloud concepts.
 
-Now I'm building towards being someone who doesn't just analyse data — but understands the entire infrastructure it sits on. Cloud + Data is not a common combination. That's exactly why I'm building it.
+Current badges include:
 
-*This repository is updated as I learn — imperfect, intentional, and completely mine.* ☁️
+- 🏅 AWS Cloud Quest: Cloud Practitioner
+- 🗂️ File Systems in the Cloud
+- 🌐 Networking Concepts
+- 🔐 Security Concepts
+
+---
+
+## 🧪 Hands-on Labs
+
+Every lab focuses on practical experience rather than theory.
+
+Topics include:
+
+- ☁️ Compute Services (Amazon EC2)
+- 🗄️ Databases
+- 🌐 Networking
+- 🔐 Security
+- 🐍 Python
+- 🛠️ Developer Tools (Amazon SageMaker)
+
+Each lab contains screenshots, notes, and reflections on what I learned.
+
+---
+
+## 🚀 Projects
+
+This repository also includes hands-on projects completed during the programme.
+
+### 🌍 Static Website Hosting
+
+Hosted and configured a static website using **Amazon S3**, learning about cloud storage, website hosting, permissions, and public access.
+
+### 🤖 Amazon Lex Chatbot
+
+Built an intelligent chatbot using **Amazon Lex** capable of answering questions about AWS services covered during the programme.
+
+---
+
+# 🛠️ Skills I'm Building
+
+Throughout AWS re/Start I'm developing practical skills in:
+
+- Amazon EC2
+- Amazon S3
+- Amazon RDS
+- Amazon EFS
+- Amazon DynamoDB
+- Amazon VPC
+- AWS IAM
+- Auto Scaling
+- High Availability
+- Networking Fundamentals
+- Linux
+- Python
+- Amazon SageMaker
+- Amazon Lex
+- Cloud Security
+- Monitoring & Troubleshooting
+
+---
+
+# 📈 Learning Progress
+
+- ✅ AWS Cloud Quest Completed
+- ✅ Multiple AWS Skill Builder Badges
+- ✅ Core AWS Labs
+- 🚧 Cloud Projects
+- 🚧 AWS Certified Cloud Practitioner
+- 🚧 Advanced Cloud Projects
+
+---
+
+# 💡 Why This Repository Exists
+
+Many repositories showcase finished projects.
+
+This one showcases the learning behind them.
+
+Every screenshot represents a concept I explored.
+
+Every lab represents a new challenge.
+
+Every project represents another step towards becoming a cloud engineer.
+
+As someone transitioning from **Data Analytics** into **Cloud Computing**, I believe understanding both the data and the infrastructure that powers it creates a stronger foundation for solving real-world problems.
+
+This repository is a reflection of that journey.
+
+And it's only the beginning.
+
+---
+
+<div align="center">
+
+### Thanks for visiting! ☁️
+
+*"Learning isn't about knowing everything—it's about becoming a little better every day."*
+
+</div>
